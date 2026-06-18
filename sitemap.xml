@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://stahe.github.io/de-android-aout-2016/index.html</loc>
-         <lastmod>2026-05-24</lastmod>
-    </url>
-    <url>
-         <loc>https://stahe.github.io/de-android-aout-2016/android-programmierung-lernen.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
          <loc>https://stahe.github.io/de-android-aout-2016/anhange.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://stahe.github.io/de-android-aout-2016/aufgabe-1-grundlegende-verwaltung-von-gehaltsabrechnungen.html</loc>
-         <lastmod>2026-05-24</lastmod>
-    </url>
-    <url>
-         <loc>https://stahe.github.io/de-android-aout-2016/aufgabe-2---steuerung-von-arduinos-mit-einem-android-tablet.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <loc>https://stahe.github.io/de-android-aout-2016/einfuhrung-in-die-android-programmierung.html</loc>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
          <loc>https://stahe.github.io/de-android-aout-2016/fallstudie---terminverwaltung.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <lastmod>2026-06-18</lastmod>
     </url>
     <url>
-         <loc>https://stahe.github.io/de-android-aout-2016/grundgerust-eines-android-clients-der-mit-einem-webdienst--json-kommuniziert.html</loc>
-         <lastmod>2026-05-24</lastmod>
+         <loc>https://stahe.github.io/de-android-aout-2016/grundgerust-eines-android-clients-der-mit-einem-webdienst-kommuniziert--json.html</loc>
+         <lastmod>2026-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://stahe.github.io/de-android-aout-2016/tp-1-grundlegende-verwaltung-einer-gehaltsabrechnung.html</loc>
+         <lastmod>2026-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://stahe.github.io/de-android-aout-2016/tp-2---arduinos-mit-einem-android-tablet-steuern.html</loc>
+         <lastmod>2026-06-18</lastmod>
     </url>
 </urlset>
